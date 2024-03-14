@@ -1,0 +1,6 @@
+[submodule "fastfreeze"]
+	path = fastfreeze
+	url = https://github.com/n-tk11/fastfreeze.git
+[submodule "ff_daemon"]
+	path = ff_daemon
+	url = https://github.com/n-tk11/ff_daemon.git
