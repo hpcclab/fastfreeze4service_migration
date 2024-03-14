@@ -1,0 +1,12 @@
+{
+    "app_args": "/root/entrypoint.sh",
+    "image_url": "file:/checkpointfs/ff_yolo",
+    "on_app_ready": "",
+    "passpharase_file": "",
+    "preserved_paths": "",
+    "no_restore": false,
+    "allow_bad_image": false,
+    "leave_stopped": false,
+    "verbose": 3,
+    "envs": []
+}

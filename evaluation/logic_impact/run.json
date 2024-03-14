@@ -1,0 +1,12 @@
+{
+    "app_args": "bash -c 'for i in $(seq 100); do echo $i; sleep 1; done'",
+    "image_url": "file:/checkpointfs/ff_f",
+    "on_app_ready": "",
+    "passpharase_file": "",
+    "preserved_paths": "",
+    "no_restore": false,
+    "allow_bad_image": false,
+    "leave_stopped": false,
+    "verbose": 3,
+    "envs": ["FF_METRICS_RECORDER=/decider_logic.py"]
+}

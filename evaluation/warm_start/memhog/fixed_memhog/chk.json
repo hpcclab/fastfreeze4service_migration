@@ -1,0 +1,10 @@
+{
+  "leave_running": false,
+  "image_url": "",
+  "passphrase_file": "",
+  "preserved_paths": "",
+  "num_shards": 4,
+  "cpu_budget": "medium",
+  "verbose": 3,
+  "envs": []
+}

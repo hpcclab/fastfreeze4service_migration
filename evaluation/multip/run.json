@@ -1,0 +1,12 @@
+{
+    "app_args": "/opt/memoryhog/entrypoint.sh",
+    "image_url": "file:/tmp/ff_memhog",
+    "on_app_ready": "",
+    "passpharase_file": "",
+    "preserved_paths": "",
+    "no_restore": false,
+    "allow_bad_image": false,
+    "leave_stopped": false,
+    "verbose": 3,
+    "envs": []
+}

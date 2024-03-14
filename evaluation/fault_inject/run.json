@@ -1,0 +1,12 @@
+{
+    "app_args": "/decider/fault.py 4",
+    "image_url": "file:/checkpointfs/ff_memhog",
+    "on_app_ready": "",
+    "passpharase_file": "",
+    "preserved_paths": "",
+    "no_restore": false,
+    "allow_bad_image": false,
+    "leave_stopped": false,
+    "verbose": 3,
+    "envs": ["FF_METRICS_RECORDER=/decider_logic.py"]
+}
