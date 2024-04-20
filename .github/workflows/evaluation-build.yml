@@ -8,7 +8,7 @@ on:
 
 jobs:
   publish_memhog:
-    name: Publish memhog image
+    name: Publish memhog_wff image
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -33,4 +33,4 @@ jobs:
         with:
           context: evaluation/build/memhog
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/fastfreeze4service_migration/fastmig:memhog
+          tags: ghcr.io/${{ github.repository_owner }}/fastfreeze4service_migration/memhog:latest
