@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main # Adjust this to match your main branch name
+    paths:
+      - "Dockerfile"
+      - "fastfreeze/**"
+      - "ff_daemon/**"
 
 jobs:
   publish:

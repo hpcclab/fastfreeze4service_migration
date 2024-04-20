@@ -1,5 +1,6 @@
 FROM ghcr.io/hpcclab/fastfreeze4service_migration/fastmig:latest
 
+#Build Memhog
 COPY main.c /opt/memoryhog/main.c
 RUN cd /opt/memoryhog/ && gcc -Wall -O3 main.c -o memoryhog
 COPY entrypoint.sh /opt/memoryhog/entrypoint.sh
