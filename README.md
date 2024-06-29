@@ -8,8 +8,8 @@ This project aim to develop a robust live containerized service migration soluti
 
 We published the idea of FastMig in a paper, titled: "FastMig: Leveraging FastFreeze to Establish Robust Service Liquidity in Cloud 2.0", presented in IEEE Cloud '24 conference. The preprint version of the paper in PDF format is available in this Github repo and on arXiv. If you are using FastMig, kindly reference our work with the following format:
 
-_Sorawit Manatura, Thanawat Chanikaphon, Chantana Chantrapornchai, and Mohsen Amini Salehi, “FastMig: Leveraging FastFreeze to Establish Robust Service Liquidity in Cloud 2.0", in Proceedings of the 17th IEEE International Conference on Cloud Computing (IEEE Cloud ’24), Shenzhen, China, Jul. 2024.
-_
+*Sorawit Manatura, Thanawat Chanikaphon, Chantana Chantrapornchai, and Mohsen Amini Salehi, “FastMig: Leveraging FastFreeze to Establish Robust Service Liquidity in Cloud 2.0", in Proceedings of the 17th IEEE International Conference on Cloud Computing (IEEE Cloud ’24), Shenzhen, China, Jul. 2024*.
+
 ## Prerequisite
 - FastMig will only work on Linux kernel version >= 5.9
 
